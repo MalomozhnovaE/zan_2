@@ -8,4 +8,8 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello qa guru!");
     }
+
+    private static String getMessage() {
+        return "Hello!";
+    }
 }
